@@ -20,6 +20,7 @@ class Solution(object):
                 high = mid - 1
         return low
 
+
 if __name__ == '__main__':
     s = Solution()
     nums = [1, 3, 5, 6]
